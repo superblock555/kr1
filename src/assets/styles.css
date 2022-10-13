@@ -69,3 +69,10 @@ div.zero{
   .s1:active{
     background-color: aquamarine;
   }
+
+.t1 {
+    background-color: brown;
+}
+.t2{
+    background-color: orange;
+}
